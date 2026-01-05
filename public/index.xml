@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>One Kelvin</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on One Kelvin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 20:47:37 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Princess and the Dragon</title>
+      <link>http://localhost:1313/posts/the-princess-and-the-dragon/</link>
+      <pubDate>Sun, 04 Jan 2026 20:47:37 -0700</pubDate>
+      <guid>http://localhost:1313/posts/the-princess-and-the-dragon/</guid>
+      <description>&lt;p&gt;&lt;em&gt;This is a snippet in my series of the game, &lt;em&gt;&amp;ldquo;Slay the Princess.&amp;rdquo;&lt;/em&gt; It is an incredible game and made me question a lot of who I am and most importantly, &lt;em&gt;why am I like this?&lt;/em&gt; I plan to add more to this series, but who knows when&amp;hellip;&lt;/em&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;preamble-postamble&#34;&gt;Preamble? Postamble?&lt;/h2&gt;&#xA;&lt;p&gt;I went into this run thinking I was being clever. I was angry at the constraints, angry at the Voices telling me what to do. I wanted to prove that I was the one pulling the strings. I wanted to break the prophecy by running straight through it.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

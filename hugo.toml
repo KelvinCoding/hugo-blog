@@ -1,0 +1,5 @@
+baseURL = 'https://blog.kelpo.org/'
+languageCode = 'en-us'
+title = 'One Kelvin'
+description = 'The Absolute Standard'
+theme = 'mana'

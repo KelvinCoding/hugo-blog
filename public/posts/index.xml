@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on One Kelvin</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on One Kelvin</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 04 Jan 2026 20:47:37 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slay the Princess the Princess and the Dragon</title>
+      <link>http://localhost:1313/posts/2026-01-04-slay-the-princess-the-princess-and-the-dragon/</link>
+      <pubDate>Sun, 04 Jan 2026 20:47:37 -0700</pubDate>
+      <guid>http://localhost:1313/posts/2026-01-04-slay-the-princess-the-princess-and-the-dragon/</guid>
+      <description>&lt;p&gt;Preamble:&lt;/p&gt;&#xA;&lt;p&gt;I went into this run thinking I was being clever. I was angry at the constraints, angry at the Voices telling me what to do. I wanted to prove that I was the one pulling the strings. I wanted to break the prophecy by running straight through it.&lt;/p&gt;&#xA;&lt;p&gt;But defiance is a messy weapon. You swing it around trying to hit the authority figure, and usually, you just end up hitting the person standing next to you. In this case, I hit her.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
