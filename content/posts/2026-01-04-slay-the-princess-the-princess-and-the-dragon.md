@@ -1,7 +1,6 @@
 +++
 date = '2026-01-04T20:47:37-07:00'
-title = 'The Princess and the Dragon'
-subtitle = 'The Princess and the Dragon'
+title = 'The Princess & The Dragon'
 slug = 'the-princess-and-the-dragon'
 tags = ['slay the princess', 'princess and the dragon', 'games']
 +++
