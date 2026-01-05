@@ -1,6 +1,5 @@
 +++
 date = '2026-01-04T20:47:37-07:00'
-draft = true
 title = 'The Princess and the Dragon'
 subtitle = 'The Princess and the Dragon'
 slug = 'the-princess-and-the-dragon'

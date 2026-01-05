@@ -4,7 +4,6 @@ title = 'One Kelvin'
 description = 'The Absolute Standard'
 theme = 'mana'
 
-
 [params]
   description = "The Absolute Standard"
   favicon = "/favicon/favicon.ico"
