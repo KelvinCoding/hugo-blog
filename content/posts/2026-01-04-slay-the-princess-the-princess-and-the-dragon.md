@@ -4,6 +4,7 @@ draft = true
 title = 'The Princess and the Dragon'
 subtitle = 'The Princess and the Dragon'
 slug = 'the-princess-and-the-dragon'
+tags = ['slay the princess', 'princess and the dragon', 'games']
 +++
 
 *This is a snippet in my series of the game, _"Slay the Princess."_ It is an incredible game and made me question a lot of who I am and most importantly, _why am I like this?_ I plan to add more to this series, but who knows when...*
