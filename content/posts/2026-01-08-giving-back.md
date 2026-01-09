@@ -1,8 +1,8 @@
 +++
 date = '2026-01-08T22:05:50-07:00'
-draft = true
 title = 'Giving back the way it gives to me'
 slug = 'giving-back-the-way-it-gives-to-me'
+tags = ['self-reflection']
 +++
 
 I went into January thinking I could architect the year. I sat down to do my "8760," mapping out exactly what I would do for every single hour of the next twelve months. I wanted to turn time into a resource I could control. I wanted to quantify my life with cold, grid-like precision.
