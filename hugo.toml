@@ -29,3 +29,6 @@ weight = 10
 name = 'Posts'
 pageRef = '/posts'
 weight = 20
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
